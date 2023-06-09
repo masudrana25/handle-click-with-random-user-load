@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import User from '../User/User';
 
+
 const Home = () => {
   const [user, setUsers] = useState([]);
 
